@@ -3,7 +3,7 @@
  * In-Class Pikachu Code Example
  * 
  * Nathan Chau
- * 8/22/15
+ * August 22, 2015
  */
 public class Pikachu
 {
