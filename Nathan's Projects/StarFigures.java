@@ -1,3 +1,10 @@
+/* Nathan Chau
+ * Cristalle Kwok
+ * Jacob Ng
+ * Vivian Wang
+ * August 25, 2015
+ */
+
 
 public class StarFigures {
     public static void main(String[] args) {
