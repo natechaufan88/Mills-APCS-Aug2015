@@ -32,7 +32,7 @@ public class TwelveDaysOfChristmas {
     }
     
     public static void trueLove() {
-        System.out.println("my true love sent to me");
+        System.out.println("my true love gave to me");
     }
     
     public static void first() {
@@ -41,7 +41,8 @@ public class TwelveDaysOfChristmas {
     }
     
     public static void gift1() {
-        System.out.println("a partridge in a pear tree.\n");
+        System.out.println("a partridge in a pear tree.");
+        System.out.println();
     }
     
     public static void second() {

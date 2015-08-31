@@ -1,16 +1,23 @@
 
 public class ThereWasAnOldLady {
+    public static void starter() {
+        System.out.print("There was an old lady who swallowed a ");
+    }
+    
     public static void fly() {
-        System.out.println("There was an old lady who swallowed a fly.");
+        starter();
+        System.out.println("fly.");
     }
     
     public static void flyEnd() {
         System.out.println("I don't know why she swallowed the fly.");
         System.out.println("Perhaps she'll die.");
+        System.out.println();
     }
     
     public static void spider() {
-        System.out.println("There was an old lady who swallowed a spider.");
+        starter();
+        System.out.println("spider.");
         System.out.println("That wriggled and jiggled and tickled inside her.");
     }
     
@@ -20,7 +27,8 @@ public class ThereWasAnOldLady {
     }
     
     public static void bird() {
-        System.out.println("There was an old lady who swallowed a bird.");
+        starter();
+        System.out.println("bird.");
         System.out.println("How absurd! To swallow a bird.");
     }
     
@@ -30,7 +38,8 @@ public class ThereWasAnOldLady {
     }
     
     public static void cat() {
-        System.out.println("There was an old lady who swallowed a cat.");
+        starter();
+        System.out.println("cat.");
         System.out.println("Imagine that! To swallow a cat.");
     }
     
@@ -40,7 +49,8 @@ public class ThereWasAnOldLady {
     }
     
     public static void dog() {
-        System.out.println("There was an old lady who swallowed a dog.");
+        starter();
+        System.out.println("dog.");
         System.out.println("What a hog! To swallow a dog.");
     }
     
@@ -50,7 +60,8 @@ public class ThereWasAnOldLady {
     }
     
     public static void goat() {
-        System.out.println("There was an old lady who swallowed a goat.");
+        starter();
+        System.out.println("goat.");
         System.out.println("Just opened her throat! To swallow a goat.");
     }
     
@@ -60,7 +71,8 @@ public class ThereWasAnOldLady {
     }
     
     public static void cow() {
-        System.out.println("There was an old lady who swallowed a cow.");
+        starter();
+        System.out.println("cow.");
         System.out.println("I don't know how she swallowed a cow!");
     }
     
@@ -70,32 +82,26 @@ public class ThereWasAnOldLady {
     }
     
     public static void horse() {
-        System.out.println("There was an old lady who swallowed a horse.");
+        starter();
+        System.out.println("horse.");
         System.out.println("She died, of course!");
     }
     
     public static void main(String[] args) {
         fly();
         flyEnd();
-        System.out.println();
         spider();
         spiderPhrase();
-        System.out.println();
         bird();
         birdPhrase();
-        System.out.println();
         cat();
         catPhrase();
-        System.out.println();
         dog();
         dogPhrase();
-        System.out.println();
         goat();
         goatPhrase();
-        System.out.println();
         cow();
         cowPhrase();
-        System.out.println();
         horse();
     }
 }
