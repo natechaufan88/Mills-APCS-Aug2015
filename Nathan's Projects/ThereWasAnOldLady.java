@@ -1,3 +1,7 @@
+/* Nathan Chau
+ * August 31, 2015
+ * This program outputs the entire lyrics of the song, "There Was An Old Lady Who Swallowed A Fly."
+ */
 
 public class ThereWasAnOldLady {
     public static void starter() {

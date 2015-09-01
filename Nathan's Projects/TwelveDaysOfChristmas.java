@@ -1,6 +1,7 @@
 /* Nathan Chau
  * HW Day 10
- * August 27. 2015
+ * August 31, 2015
+ * This program outputs the entire lyrics to the song, "The Twelve Days of Christmas."
  */
 
 public class TwelveDaysOfChristmas {
