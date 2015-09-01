@@ -1,5 +1,7 @@
 /* Nathan Chau
- * August 25, 2015
+ * August 30, 2015
+ * This program prints out "MISSISSIPPI", with each individual letter constructed out of the same
+ * respective letters of smaller size, in a vertical line.
  */
 
 public class Mississippi {
